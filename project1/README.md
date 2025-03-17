@@ -3,6 +3,8 @@ This project developed a Pacman agent capable of navigating a maze efficiently. 
 
 ## Key Objectives
 • Implement pathfinding algorithms to navigate Pacman through the maze.
+
 • Develop strategies to efficiently collect food while avoiding obstacles.
+
 • Gain hands-on experience with search algorithms such as BFS, DFS, A*, and more.
 
